@@ -1,0 +1,1 @@
+Just random python stuff. Trying to relearn the language
